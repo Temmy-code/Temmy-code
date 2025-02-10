@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software developer looking to get great ideas and solve problems 
+- 🔭 I’m currently working on ##Software Development
+- 🌱 I’m currently learning ##HTML, ##CSS, ##JAVASCRIPT
+- ⚡ I look forward to getting feedbacks on how to be a better ##Software Developer
